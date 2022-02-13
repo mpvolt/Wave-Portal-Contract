@@ -1,6 +1,6 @@
 # Wave-Portal-Contract
 Record and Display people who wave 👋  at me on the Rinkeby Blockchain
 
-One repository contains the Replit code to create the web browser that interacts with the smart contract.
+The main branch repository contains the Replit code that creates a web browser for users to interact with the smart contract
 
-The other contains the smart contract code, as well as the means of deploying it to the Rinkeby Blockchain :)
+The other branch contains the actual smart contract code, and a script for redeploying the smart contract to the Rinkeby testnet :)
